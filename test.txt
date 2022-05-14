@@ -1,0 +1,1 @@
+изменен текст в test.txt из kraken 
