@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-new text into file dev.go
-=======
-новый тест в ветке TEST
->>>>>>> Stashed changes
